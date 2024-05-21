@@ -1,3 +1,4 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OfficialEvsty&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OfficialEvsty&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=officialevsty&theme=monokai)
