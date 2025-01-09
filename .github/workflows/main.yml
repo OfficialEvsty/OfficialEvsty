@@ -11,14 +11,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: OfficialEvsty/OfficialEvsty/svg-only@master
+      - uses: OfficialEvsty/OfficialEvsty/svg-only@output
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/only-svg/github-contribution-grid-snake.svg
             dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: OfficialEvsty/OfficialEvsty@master
+      - uses: OfficialEvsty/OfficialEvsty@output
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
