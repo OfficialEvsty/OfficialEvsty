@@ -1,1 +1,1 @@
-![snake gif](https://github.com/OfficialEvsty/OfficialEvsty/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/OfficialEvsty/OfficialEvsty/blob/output/docker/github-contribution-grid-snake.gif)
